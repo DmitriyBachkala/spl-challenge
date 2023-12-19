@@ -9,10 +9,12 @@ ERD available in EmployeeERD.txt and EmployeeERDImage.png.
 # Data Engineering
 Developed the SQL script (Data Engineering.sql) to create tables in the correct order.
 Established valid relationships between tables and implemented necessary keys for proper connections.
+Used chat.openai.com to refine and format script
 
 # Data Analysis
 Conducted data analysis using SQL queries to extract the desired information.
 Utilized SQL queries for various tasks, such as employee information retrieval and frequency counts.
 sql script found in Data Analysis.sql
+Used chat.openai.com to refine and format script
 
 -------------
